@@ -1,0 +1,23 @@
+.bar {
+  fill: #bde8e6;
+  transition: 1s;
+}
+
+.bar:hover {
+  fill: #ffffff;
+  transition: 1s;
+}
+
+.axis--x path {
+  display: none;
+}
+
+body {
+  font-family: 'Big John';    
+  background-color: #66838a;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
